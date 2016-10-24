@@ -1,4 +1,4 @@
-# @mixin placeholder
+# @mixin placeholder()
 
 ### Example 1.
 **Set @mixin**
@@ -12,18 +12,17 @@
 ```
 
 **Use @mixin**
-```
+```scss
 @include placeholder {
     color: red;
     font-weight:noraml;
 }
 ```
+
 ### Example 2.
 **Set @mixin**
-
 *optional: set default values*
-
-```
+```scss
 @mixin placeholder($color, $opacity: 1, $font-weight: 100) {
     &::-webkit-input-placeholder {
         color: $color;
@@ -52,6 +51,11 @@
 ```
 
 **Use @mixin**
-```
+```scss
 @include placeholder($input-placeholder-color)
+
+// or
+//-------
+
+@include placeholder(red, 0.8, 400)
 ```

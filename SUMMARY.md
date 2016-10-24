@@ -1,6 +1,8 @@
 # Summary
 
-* [SASS/CSS](CSS/mixin-placeholder.md)
+* [ASP.NET/C#](aspnet/readme.md)
+* [SASS/CSS](CSS/readme.md)
     * [@mixin placeholder()](CSS/mixin-placeholder.md)
-* [HTML](HTML/html.md)
+* [HTML](HTML/readme.md)
+* [RIFs](randomfacts.md)
 
