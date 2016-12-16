@@ -3,7 +3,7 @@
 If object is dynamicaly generated we need to apply listeners again. With Foundation this is done by creating a new instance of an object (e.g. Accordion):
 
 * Foundation.Accordion - Creates a new instance of an accordion.
-** var elem = new Foundation.Accordion(element, options);
+* var elem = new Foundation.Accordion(element, options);
 
 ###Example
 ```js
