@@ -4,5 +4,7 @@ You can use .indexOf()/lastIndexOf() and .substr():
 
 ```js
 var href = "http://localhost:8080/Page?id=123";
-href = href.substring(href.indexOf('=') + 1);
+result = href.substring(href.indexOf('=') + 1);
+
+// result = 123
 ```
