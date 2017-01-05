@@ -4,5 +4,5 @@
 
 ## jQuery:
 * [Trim After Charachter](trim-after-char.md)
-* [Reload the Webpage When Wrientation Whanges](on-orientation-change.md)
+* [Reload the Webpage When Orientation Changes](on-orientation-change.md)
 * [KeyboardEvent Value](keyboard-event-value.md)
