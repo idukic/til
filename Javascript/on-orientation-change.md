@@ -17,4 +17,4 @@ window.onorientationchange = function() {
                 break; } 
     };
 ```
-[How to reload the webpage when orientation changes?](http://stackoverflow.com/questions/17708869/how-to-reload-the-webpage-when-orientation-changes)
+See more: [How to reload the webpage when orientation changes?](http://stackoverflow.com/questions/17708869/how-to-reload-the-webpage-when-orientation-changes)
