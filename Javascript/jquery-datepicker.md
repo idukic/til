@@ -13,6 +13,6 @@ The day names come from the _dayNamesMin_ (Mo,Tu...) option, to set up to _dayNa
 // 1. Set values for min names
 $( ".selector" ).datepicker( "option", "dayNamesMin", ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]);
 
-// 2. Overide defoults
+// 2. Override defoults
 $.datepicker.setDefaults({dayNamesMin: $.datepicker._defaults.dayNamesShort});
 ```
