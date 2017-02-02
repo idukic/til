@@ -40,6 +40,7 @@ public bool Checkbox { get; set; }
 ```
 
 ```js
+// Extend jquery range validator to work for required checkboxes
 var defaultRangeValidator = $.validator.methods.range;
     $.validator.methods.range = function (value, element, param) {
         if (element.type === 'checkbox') {
