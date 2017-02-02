@@ -3,7 +3,7 @@
 ```cs
 // Index.cshtml
 @{ 
-    Html.RenderPartial("_PartialView", (string)ViewBag.Partner);
+    Html.RenderPartial("_PartialView", (string)ViewBag.Bag);
 }
 
 // _PartialView.cshtml
