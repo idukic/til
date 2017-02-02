@@ -22,12 +22,12 @@
 		        data-val-range="This field is required" 
                 data-val-range-max="True" 
                 data-val-range-min="True" 
-                data-val-required="The Terms Accepted field is required." 
+                data-val-required="The Checkbox field is required." 
                 id="Checkbox" 
                 name="Checkbox" 
                 type="checkbox" 
                 value="true">
-		<label class="fw-normal" for="TermsAccepted">This checkbox has to be ticked!</label>
+		<label class="fw-normal" for="Checkbox">This checkbox has to be ticked!</label>
 		<span class="field-validation-valid" data-valmsg-for="Checkbox" data-valmsg-replace="true"></span>
 	</div>
 </div>
