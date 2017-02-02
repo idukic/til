@@ -3,7 +3,8 @@
 
 ##Extend jquery range validator to work for required checkboxes
 
-* Asp.Net Core, Tag helpers, jquery validation
+* Asp.Net Core, Tag helpers, jquery Validation, Data Annotations
+* [See more: ASP.NET MVC - Required Checkbox with Data Annotations](http://jasonwatmore.com/post/2013/10/16/aspnet-mvc-required-checkbox-with-data-annotations)
 
 ```html
 <!-- Index.cshtml -->
