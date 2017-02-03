@@ -45,7 +45,7 @@ public bool Checkbox { get; set; }
 // Extend jquery range validator to work for required checkboxes
 var defaultRangeValidator = $.validator.methods.range;
     $.validator.methods.range = function (value, element, param) {
-        if (element.type === 'checkbox') {
+        if (element.type === "checkbox") {
             // if it's a checkbox return true if it is checked
             return element.checked;
         } else {
@@ -55,3 +55,10 @@ var defaultRangeValidator = $.validator.methods.range;
     }
 });
 ```
+##Is checkbox checked?
+
+* find how many are checked 
+..* $("input[name=checkbox]:checked").length;
+* if the checkbox is checked
+..* $("#" + id).is(":checked")
+..* $("#Checkbox:checked").length > 0
