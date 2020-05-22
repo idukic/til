@@ -1,7 +1,7 @@
-#Formmated date
+# Formmated date
 
 
-##JavaScript Date Output
+## JavaScript Date Output
 Independent of input format, JavaScript will (by default) output dates in full text string format:
 * e.g. Fri Dec 30 2016 14:55:16 GMT+0000 (GMT Standard Time)
 
