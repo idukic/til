@@ -1,4 +1,4 @@
-#Has variable truthy value or not?
+# Has variable truthy value or not?
 
 ```js
 

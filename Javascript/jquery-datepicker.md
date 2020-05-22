@@ -1,4 +1,4 @@
-#jQuery Datepicker Widget
+# jQuery Datepicker Widget
 
 *Methods*:
 * option() - the new options for the date picker.

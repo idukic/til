@@ -1,4 +1,4 @@
-#Pass ViewBag to Partial View
+# Pass ViewBag to Partial View
 
 ```cs
 // Index.cshtml

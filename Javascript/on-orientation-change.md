@@ -1,4 +1,4 @@
-#Reload the webpage when orientation changes
+# Reload the webpage when orientation changes
 ```js
     $(window).on('orientationchange', function (e) {
         window.location.reload();

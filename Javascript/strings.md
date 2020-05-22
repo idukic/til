@@ -1,6 +1,6 @@
-#Strings
+# Strings
 
-##1. Check if string is empty.
+## 1. Check if string is empty.
 
 ```js
 

@@ -1,4 +1,4 @@
-#Re-apply listeners to DOM elements
+# Re-apply listeners to DOM elements
 
 If object is dynamicaly generated we need to apply listeners again. With Foundation this is done by creating a new instance of an object (e.g. Accordion):
 

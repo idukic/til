@@ -1,4 +1,4 @@
-#jQuery Validation
+# jQuery Validation
 [jQuery Validation Documentation](https://jqueryvalidation.org/documentation/)
 
 ##Extend jquery range validator to work for required checkboxes

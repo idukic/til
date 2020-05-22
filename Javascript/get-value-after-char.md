@@ -1,4 +1,4 @@
-#Get value after a special character
+# Get value after a special character
 
 You can use .indexOf()/lastIndexOf() and .substr():
 
